@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-CRET (Cross-Modal Retrieval Transformer) is a novel framework proposed in the research paper ["CRET: Cross-Modal Retrieval Transformer for Efficient Text-Video Retrieval"](link-to-paper) by Ji et al. The framework effectively models local correspondences between video and text modalities while maintaining efficient retrieval performance.
+CRET (Cross-Modal Retrieval Transformer) is a novel framework proposed in the research paper "CRET: Cross-Modal Retrieval Transformer for Efficient Text-Video Retrieval by Ji et al. The framework effectively models local correspondences between video and text modalities while maintaining efficient retrieval performance.
 
 ## 🎯 Introduction
 
